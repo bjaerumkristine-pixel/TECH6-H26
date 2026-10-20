@@ -344,8 +344,8 @@ software.
 - **Native client (recommended)**: Install the native Omnissa Horizon Client for
   lower latency, multi-monitor support, and system shortcut forwarding (`Ctrl+C`,
   `Alt+Tab`).
-  - Supported OS: Windows 10/11, macOS (Apple Silicon and Intel), Linux (Ubuntu and
-    RHEL on X11).
+  - Supported OS: Windows 10/11, macOS 14+ (Apple Silicon and Intel; older macOS
+    versions should use the web client), Linux (Ubuntu and RHEL on X11).
   - Download page:
     [Omnissa Horizon Clients](https://customerconnect.omnissa.com/downloads/info/slug/desktop_end_user_computing/omnissa_horizon_clients/8)
 - **Web client (browser fallback)**: Accessible directly at

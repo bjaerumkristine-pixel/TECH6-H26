@@ -12,7 +12,7 @@ Course material for fall 2026 (H26) — Author: Richard Foltyn
 | Week | Day         | L/W | Topic | Notes & Exercises | Solutions |
 |------|-------------|-----|-------|-------------------|-----------|
 |  42  | Tue, Oct 13 | `L` | Introduction to scikit-learn | [Notebook](lectures/lecture1/lecture1.ipynb), [PDF](lectures/lecture1/lecture1.pdf) | — |
-|      | Thu, Oct 15 | `W` | Introduction to scikit-learn | [Notebook](workshops/workshop1/workshop1.ipynb), [PDF](workshops/workshop1/workshop1.pdf) | TBA |
+|      | Thu, Oct 15 | `W` | Introduction to scikit-learn | [Notebook](workshops/workshop1/workshop1.ipynb), [PDF](workshops/workshop1/workshop1.pdf) | [Notebook](workshops/workshop1/workshop1-solution.ipynb), [PDF](workshops/workshop1/workshop1-solution.pdf) |
 |  43  | Tue, Oct 20 | `L` | Cross-validation and model selection | [Notebook](lectures/lecture2/lecture2.ipynb), [PDF](lectures/lecture2/lecture2.pdf) | — |
 |      | Thu, Oct 22 | `W` | Cross-validation and model selection | [Notebook](workshops/workshop2/workshop2.ipynb), [PDF](workshops/workshop2/workshop2.pdf) | TBA |
 |  44  | Tue, Oct 27 | `L` | Regression models | [Notebook](lectures/lecture3/lecture3.ipynb), [PDF](lectures/lecture3/lecture3.pdf) | — |

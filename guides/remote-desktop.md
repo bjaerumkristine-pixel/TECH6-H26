@@ -23,12 +23,15 @@ client. The native client offers:
 ### Supported operating systems
 
 - **Windows**: Windows 10 and Windows 11 (64-bit).
-- **macOS**: Supported on both Apple Silicon (M-series) and Intel Macs.
+- **macOS**: Supported on both Apple Silicon (M-series) and Intel Macs running macOS
+  14 (Sonoma) or newer. Older Intel Macs capped at earlier macOS versions cannot run
+  the latest native client and should use the web client instead.
 - **Linux**: Supported on distributions such as Ubuntu and RHEL (requires the X11
   display server; Wayland is not supported).
 
-If you are on Windows or macOS, install the native client. If you use Linux, ChromeOS,
-or cannot install software on your machine, use the web client described below.
+If you are on Windows or a supported macOS version, install the native client. If
+you use Linux, ChromeOS, an unsupported macOS version, or cannot install software on
+your machine, use the web client described below.
 
 ### Installation & setup
 
